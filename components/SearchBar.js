@@ -1,7 +1,3 @@
-/**
- * @flow strict-local
- * @format
- */
 import React from 'react';
 import {
   StyleSheet,
